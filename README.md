@@ -25,6 +25,28 @@ Models used: Logistic Regression, Decision tree, Random Forest, XG Boost
 ![image](https://github.com/kpooja2597/Real-Estate-Investment-Analysis/assets/36571510/43e2f8ed-9b95-458b-8c26-f6cb30c22077)
 
 
+#### Decision Tree
+
+![image](https://github.com/kpooja2597/Real-Estate-Investment-Analysis/assets/36571510/2f4bea04-0810-4a8d-8b6d-5ce90ce85e7b)
+
+### Feature Importance
+
+1. Decision Tree
+
+![image](https://github.com/kpooja2597/Real-Estate-Investment-Analysis/assets/36571510/a9276a2a-7d9e-40ef-99f6-bacba18ea3fa)
+
+2. Random Forest
+
+![image](https://github.com/kpooja2597/Real-Estate-Investment-Analysis/assets/36571510/ef84ff02-0a8a-4aa7-b6ad-c4b05b1395c0)
+
+3. XG Boost
+
+![image](https://github.com/kpooja2597/Real-Estate-Investment-Analysis/assets/36571510/6d29b89f-31a7-4abe-9c9c-31674685c6fc)
+
+
+
+
+
 
 
 
